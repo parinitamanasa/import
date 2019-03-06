@@ -1,0 +1,10 @@
+policyId,insurerName,insurerLicense,policyName,policyType,maxAge,minAge,genderAvail,diseasesCovered,relationship,uniqueId
+1,Starhealth Insurance Company,1INS001,Starhealth Family Insurance,Family,60,1, male,Cancer,IS_POLICY_OF,P001
+2,Starhealth Insurance Company,1INS001,Star Comprehensive Insurance Policy,Individual,55,22,both,Stroke,IS_POLICY_OF,P002
+3,Starhealth Insurance Company,1INS001,Star Comprehensive Female Insurance Policy,Individual,55,20,female,Diabetics,IS_POLICY_OF,P003
+4,Starhealth Insurance Company,1INS001,Family Health Optima Insurance Plan,Family,65,2,male,Cancer,IS_POLICY_OF,P004
+5,Starhealth Insurance Company,1INS001,"Senior Citizens Red Carpet Health Insurance Policy
+",Individual,75,60,female,Kidney failure,IS_POLICY_OF,P005
+6,Religar Insurance Company,1INS002,Religar Comprehensive Insurance Policy,Individual,60,20,male,"Cancer,Kidney failure",IS_POLICY_OF,P006
+7,Religar Insurance Company,1INS002,Religar Enhance Insurance Policy,Family,55,3,female,"Cancer,Kidney failure",IS_POLICY_OF,P007
+8,Religar Insurance Company,1INS002,Religar Joy Insurance Policy,Individual,40,22,female,Maternity,IS_POLICY_OF,P008
